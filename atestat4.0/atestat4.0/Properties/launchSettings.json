@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "atestat4.0": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\Windows\\win.ini"
+    }
+  }
+}
