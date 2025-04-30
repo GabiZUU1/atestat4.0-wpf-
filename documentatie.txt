@@ -1,5 +1,6 @@
-https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/windows-forms-controls-and-equivalent-wpf-controls?view=netframeworkdesktop-4.8
-https://stackoverflow.com/questions/25231414/how-to-load-different-controls-depending-on-the-databound-classes-type-in-wpf
 https://wpf-tutorial.com/wpf-application/the-window/
 https://wpf-tutorial.com/wpf-application/working-with-app-xaml/
-https://wpf-tutorial.com/wpf-application/command-line-parameters/
+https://wpf-tutorial.com/wpf-application/resources/
+https://wpf-tutorial.com/basic-controls/the-label-control/
+https://wpf-tutorial.com/panels/introduction-to-wpf-panels/
+https://wpf-tutorial.com/usercontrols-and-customcontrols/introduction/
