@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0\\atestat4.0\\atestat4.0.csproj": {}
+    "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0-wpf-\\atestat4.0\\atestat4.0\\atestat4.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0\\atestat4.0\\atestat4.0.csproj": {
+    "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0-wpf-\\atestat4.0\\atestat4.0\\atestat4.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0\\atestat4.0\\atestat4.0.csproj",
+        "projectUniqueName": "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0-wpf-\\atestat4.0\\atestat4.0\\atestat4.0.csproj",
         "projectName": "atestat4.0",
-        "projectPath": "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0\\atestat4.0\\atestat4.0.csproj",
+        "projectPath": "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0-wpf-\\atestat4.0\\atestat4.0\\atestat4.0.csproj",
         "packagesPath": "C:\\Users\\Gabi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0\\atestat4.0\\obj\\",
+        "outputPath": "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0-wpf-\\atestat4.0\\atestat4.0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

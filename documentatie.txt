@@ -4,3 +4,5 @@ https://wpf-tutorial.com/wpf-application/resources/
 https://wpf-tutorial.com/basic-controls/the-label-control/
 https://wpf-tutorial.com/panels/introduction-to-wpf-panels/
 https://wpf-tutorial.com/usercontrols-and-customcontrols/introduction/
+
+https://www.codeproject.com/Articles/140267/Create-Custom-Windows-in-WPF-with-Ease?PageFlow=Fluid
