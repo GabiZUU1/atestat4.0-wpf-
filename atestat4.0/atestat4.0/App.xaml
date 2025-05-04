@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:atestat4._0"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary Source="/TextStyles.xaml"/>
     </Application.Resources>
 </Application>

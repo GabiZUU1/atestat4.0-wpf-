@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,19 +43,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0-wpf-\\atestat4.0\\atestat4.0\\App.xaml.cs",
-              "RelativeDocumentMoniker": "atestat4.0\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0-wpf-\\atestat4.0\\atestat4.0\\App.xaml.cs",
-              "RelativeToolTip": "atestat4.0\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T10:42:37.281Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,10 +62,23 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0-wpf-\\atestat4.0\\atestat4.0\\MainWindow.xaml",
               "RelativeDocumentMoniker": "atestat4.0\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0-wpf-\\atestat4.0\\atestat4.0\\MainWindow.xaml*",
-              "RelativeToolTip": "atestat4.0\\MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0-wpf-\\atestat4.0\\atestat4.0\\MainWindow.xaml",
+              "RelativeToolTip": "atestat4.0\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-29T08:53:34.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0-wpf-\\atestat4.0\\atestat4.0\\App.xaml.cs",
+              "RelativeDocumentMoniker": "atestat4.0\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\c#\\atestat4.0 (wpf)\\atestat4.0-wpf-\\atestat4.0\\atestat4.0\\App.xaml.cs",
+              "RelativeToolTip": "atestat4.0\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:42:37.281Z",
               "EditorCaption": ""
             },
             {
