@@ -26,7 +26,6 @@ C:\Users\Gabi\Desktop\c#\atestat4.0 (wpf)\atestat4.0-wpf-\atestat4.0\atestat4.0\
 C:\Users\Gabi\Desktop\c#\atestat4.0 (wpf)\atestat4.0-wpf-\atestat4.0\atestat4.0\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\Gabi\Desktop\c#\atestat4.0 (wpf)\atestat4.0-wpf-\atestat4.0\atestat4.0\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\Gabi\Desktop\c#\atestat4.0 (wpf)\atestat4.0-wpf-\atestat4.0\atestat4.0\obj\Debug\net8.0-windows\atestat4.0_MarkupCompile.cache
-C:\Users\Gabi\Desktop\c#\atestat4.0 (wpf)\atestat4.0-wpf-\atestat4.0\atestat4.0\obj\Debug\net8.0-windows\atestat4.0_MarkupCompile.lref
 C:\Users\Gabi\Desktop\c#\atestat4.0 (wpf)\atestat4.0-wpf-\atestat4.0\atestat4.0\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\Gabi\Desktop\c#\atestat4.0 (wpf)\atestat4.0-wpf-\atestat4.0\atestat4.0\obj\Debug\net8.0-windows\atestat4.0.g.resources
 C:\Users\Gabi\Desktop\c#\atestat4.0 (wpf)\atestat4.0-wpf-\atestat4.0\atestat4.0\obj\Debug\net8.0-windows\atestat4.0.GeneratedMSBuildEditorConfig.editorconfig
@@ -39,3 +38,4 @@ C:\Users\Gabi\Desktop\c#\atestat4.0 (wpf)\atestat4.0-wpf-\atestat4.0\atestat4.0\
 C:\Users\Gabi\Desktop\c#\atestat4.0 (wpf)\atestat4.0-wpf-\atestat4.0\atestat4.0\obj\Debug\net8.0-windows\atestat4.0.pdb
 C:\Users\Gabi\Desktop\c#\atestat4.0 (wpf)\atestat4.0-wpf-\atestat4.0\atestat4.0\obj\Debug\net8.0-windows\atestat4.0.genruntimeconfig.cache
 C:\Users\Gabi\Desktop\c#\atestat4.0 (wpf)\atestat4.0-wpf-\atestat4.0\atestat4.0\obj\Debug\net8.0-windows\ref\atestat4.0.dll
+C:\Users\Gabi\Desktop\c#\atestat4.0 (wpf)\atestat4.0-wpf-\atestat4.0\atestat4.0\obj\Debug\net8.0-windows\TextStyles.baml

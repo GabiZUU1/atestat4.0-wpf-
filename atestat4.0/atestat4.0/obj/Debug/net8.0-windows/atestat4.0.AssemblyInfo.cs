@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("atestat4.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b64630390dbb4b50d4346e5d8ec92c86d3db7f33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c77e1c53c34e1ea5e8bb4e67dac60a8c8cb8da42")]
 [assembly: System.Reflection.AssemblyProductAttribute("atestat4.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("atestat4.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
