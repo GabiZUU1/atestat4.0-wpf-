@@ -10,3 +10,6 @@ https://www.codeproject.com/Articles/140267/Create-Custom-Windows-in-WPF-with-Ea
 !!!!!!!!!!!!!!!!https://learn.microsoft.com/en-us/windows/apps/desktop/
 https://www.youtube.com/watch?v=gSfMNjWNoX0&list=PLLWMQd6PeGY3QEHCmCWaUKNhmFFdIDxE8
 https://www.reddit.com/r/csharp/comments/1k5eadv/where_can_i_learn_to_make_windows_desktop_apps/
+
+https://www.eidias.com/blog/2014/1/27/restyle-your-window
+https://www.youtube.com/watch?v=54ZmhbpjBmg
