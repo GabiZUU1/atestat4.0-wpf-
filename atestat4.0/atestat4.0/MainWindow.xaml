@@ -2,13 +2,25 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
 	    Title="Main Window" Height="500" Width="900" WindowStartupLocation="CenterScreen"
-        Background="Blue" WindowStyle="None" ResizeMode="NoResize" IsEnabled="False" Icon="/Icon.png">
-    <StackPanel Margin="5" Background="Red">
-        <DockPanel Height="32" Background="Green">
-            <TextBlock Text="Logare" Margin="11, 2, 2, 2" DockPanel.Dock="Left" VerticalAlignment="Center" HorizontalAlignment="Left" Background="Purple" 
+        Background="Blue" ResizeMode="CanResize" Icon="/Icon.png"
+        >
+    <WindowChrome.WindowChrome>
+        <WindowChrome GlassFrameThickness="0" CornerRadius="0" CaptionHeight="0" UseAeroCaptionButtons="False" ResizeBorderThickness="7"/>
+    </WindowChrome.WindowChrome>
+    
+    <StackPanel Margin="3" Background="Red">
+        <DockPanel x:Name="dockTitleBar" Height="32" Background="Green" MouseLeftButtonDown="DockPanel_MouseLeftButtonDown" 
+                   MouseMove="DockPanel_MouseMove" MouseLeftButtonUp="DockPanel_MouseLeftButtonUp">
+            <TextBlock Text="Logare" Margin="13, 2, 2, 2" DockPanel.Dock="Left" VerticalAlignment="Center" HorizontalAlignment="Left" Background="Purple" 
                        FontSize="18" Style="{StaticResource CaptionTextBlockStyle}"/>
-            <Button x:Name="btnClose" Margin="2" DockPanel.Dock="Right" VerticalAlignment="Stretch" HorizontalAlignment="Right" Width="30"/>
-            <Button x:Name="btnMinimise" Margin="2" DockPanel.Dock="Right" VerticalAlignment="Stretch" HorizontalAlignment="Right" Width="30"/>
+            
+            <Button x:Name="btnClose" Margin="2" DockPanel.Dock="Right" VerticalAlignment="Stretch" Click="btnClose_Click"
+                    HorizontalAlignment="Right" Width="30" FontFamily="Segoe MDL2 Assets" Content="&#xE106;"
+                    Style="{StaticResource CustomButtonStyle}"/>
+            
+            <Button x:Name="btnMinimise" Margin="2" DockPanel.Dock="Right" VerticalAlignment="Stretch" Click="btnMinimise_Click"
+                    HorizontalAlignment="Right" Width="30" FontFamily="Segoe MDL2 Assets" Content="&#xE949;"
+                    Style="{StaticResource CustomButtonStyle}"/>
         </DockPanel>
     </StackPanel>
 </Window>
