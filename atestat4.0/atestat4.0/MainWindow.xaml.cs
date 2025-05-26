@@ -34,24 +34,4 @@ public partial class MainWindow : Window
     {
         this.WindowState = WindowState.Minimized;
     }
-
-    private bool windowMoving = false;
-    private void DockPanel_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
-    {
-        windowMoving = true;
-        dockTitleBar.Background = Brushes.Aqua;
-    }
-
-    private void DockPanel_MouseMove(object sender, MouseEventArgs e)
-    {
-        if(windowMoving)
-        {
-            this.PointFromScreen(e.GetPosition(this));
-        }
-    }
-
-    private void DockPanel_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
-    {
-        windowMoving = false;
-    }
 }
